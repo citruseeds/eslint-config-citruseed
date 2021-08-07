@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-citruseed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint config for Citruseed projects.",
   "main": "index.js",
   "type": "module",
