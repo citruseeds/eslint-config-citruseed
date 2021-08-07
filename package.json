@@ -3,7 +3,6 @@
   "version": "1.0.3",
   "description": "ESLint config for Citruseed projects.",
   "main": "index.js",
-  "type": "module",
   "dependencies": {
     "typescript": "^4.3.5"
   },
